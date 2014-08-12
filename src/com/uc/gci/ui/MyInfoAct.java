@@ -10,7 +10,7 @@ import com.uc.gci.R;
 /**
  * @ClassName: NoticeAct
  * @Description: TODO
- * @author longqiankun
+ * @author nickLus	
  * @date 2014-8-11 下午9:40:22
  * 
  */
@@ -43,5 +43,7 @@ public class MyInfoAct extends BaseHeaderActivity {
 	@Override
 	public void initData() {
 	}
-
+	public void name() {
+		
+	}
 }
